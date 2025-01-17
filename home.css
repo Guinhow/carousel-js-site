@@ -262,4 +262,10 @@ section {
     left: 24px;
     color: #0071e2;
 }
-    
+
+.footer {
+    text-align: center; 
+    padding: 20px; 
+    font-size: 14px; 
+    color: #6c757d;
+}
